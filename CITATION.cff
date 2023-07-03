@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Computations For Square-free, Quartic, Monic Pellian
+  Polynomials Over Z[x]
+message: >-
+  This code is intended to show how to compute all quartic,
+  monic, square-free Pellian polynomials over Z[x].
+type: software
+authors:
+  - given-names: Zachary
+    family-names: Scherr
+    email: zlscherr@gmail.com
+    affiliation: Google
+  - given-names: Thompson
+    family-names: Katherine
+    email: kthomps@usna.edu
+    affiliation: United States Naval Academy
